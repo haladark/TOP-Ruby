@@ -1,4 +1,4 @@
-# This code will encrybt a string containing letters,
+# This code will encrypt a string containing letters,
 # numbers, spaces and punctuation marks using Caesar Cigher: shifts the 
 # letters by a given factor. spaces and punctuation marks will remain the same.
 
